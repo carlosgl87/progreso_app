@@ -7,7 +7,7 @@ lista_ejecutivos = ['Adolfo Gutierrez', 'Barbara Montemayor', 'Blanca Valeria Ja
 lista_sucursales = ['Antofagasta', 'Calama', 'Casa Matriz', 'Concepcion', 'Copiapo', 'Iquique', 'La Serena', 'Los Angeles', 'No Definido', 'Puerto Montt', 'Rancagua', 'Talca', 'Viña del Mar']
 lista_columnas = ['numero_cuotas_gracia', 'monto_inicial_uf', 'prov_seguros_uf', 'tasa', 'total_cuotas', 'valor_financiar_uf', 'valor_cuota_uf', 'tipo_producto_Leasing', 'tipo_producto_Microleasing', 'tipo_producto_others', 'actividad_economica_Agricultura y ganaderia excepto fruticultura', 'actividad_economica_Bienes inmuebles y servicios prestados a empresas', 'actividad_economica_Construccion de viviendas', 'actividad_economica_Explotacion de minas y canteras', 'actividad_economica_Leasing de consumo', 'actividad_economica_Otras obras y construcciones', 'actividad_economica_Servicios comunales, sociales y personales', 'actividad_economica_Transporte y almacenamiento', 'actividad_economica_others', 'tipo_persona_Jurídica', 'tipo_persona_Natural', 'moneda_$', 'moneda_UF']
 
-st.image("progresojpeg.jpeg")
+#st.image("progresojpeg.jpeg")
 st.text("")
 st.markdown("<h2 style='text-align: center; color: grey;'>Modelo Predictivo Riesgo</h2>", unsafe_allow_html=True)
 st.text("")
